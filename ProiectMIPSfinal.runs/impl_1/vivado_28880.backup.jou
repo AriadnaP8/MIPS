@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun May 21 20:14:15 2023
+# Process ID: 28880
+# Current directory: D:/Faculta/AN2/Sem 2/AC/ProiectMIPSfinal/ProiectMIPSfinal.runs/impl_1
+# Command line: vivado.exe -log test_env.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_env.tcl -notrace
+# Log file: D:/Faculta/AN2/Sem 2/AC/ProiectMIPSfinal/ProiectMIPSfinal.runs/impl_1/test_env.vdi
+# Journal file: D:/Faculta/AN2/Sem 2/AC/ProiectMIPSfinal/ProiectMIPSfinal.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
